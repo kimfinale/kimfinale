@@ -4,11 +4,11 @@
 - [Homepage](https://jonghoonk.com)
 - [linkedin](https://www.linkedin.com/in/jong-hoon-kim-6447325/)   
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning neovim
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on modeling infection transmission with a focus on implemention and operation of intervention programs.
-- 🤔 I’m looking for help with my next job
+- 🤔 I’m looking for help ...
 - 💬 Ask me about 
 - 📫 How to reach me: kimfinale@gmail.com
-- 😄 Pronouns: his/him  
+- 😄 Pronouns:
 - ⚡ Fun fact: 
 
